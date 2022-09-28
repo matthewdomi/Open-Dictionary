@@ -36,3 +36,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## link for Cheat in Tailwindcss
 # https://nerdcave.com/tailwind-cheat-sheet
+# https://nicepage.com/website-templates/preview/education-library-1284736?device=desktop
